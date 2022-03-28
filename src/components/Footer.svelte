@@ -30,8 +30,11 @@
     style="background-color: rgba(0, 0, 0, 0.2);"
   >
     © 2022 Copyright:
-    <a class="text-gray-200" href="https://tailwind-elements.com/"
-      >Tailwind Elements</a
-    >
+    <a
+      class="text-gray-200"
+      href="https://tailwind-elements.com/"
+      target="_blank"
+      >Tailwind Elements
+    </a>
   </div>
 </footer>
