@@ -18,9 +18,7 @@
     </p>
   </div>
 </div>
-<div
-  class="meal_container ml-0 mr-0 md:ml-8 md:mr-8 lg:ml-8 lg:mr-8 xl:ml-8 xl:mr-8"
->
+<div class="meal_container ml-0 mr-0 md:mx-28">
   <div class="mt-8 mb-8">
     <h2 class="text-center text-white text-2xl md:text-6xl font-thin ">
       La <span class="text-4xl md:text-7xl font-thin">Carte</span>
